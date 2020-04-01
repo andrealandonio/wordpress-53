@@ -13,6 +13,7 @@ wp-content/upgrade/
 wp-content/advanced-cache.php
 wp-content/cache/
 wp-content/backups/
+wp-content/uploads/
 
 # ignore node files
 node_modules/
